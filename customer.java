@@ -57,6 +57,6 @@ public void setAddress(String address) {
 	this.address = address;
 }
 public void showusername() {
-	System.out.println("¿Í»§ĞÕÃû"+username);
+	System.out.println("å®¢æˆ·å§“å"+username);
 }
 }
